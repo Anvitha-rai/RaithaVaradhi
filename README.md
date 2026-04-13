@@ -1,4 +1,6 @@
 🌾 RaithaVaradhi – Smart Agriculture Assistant
+
+
 📌 Overview
 
 RaithaVaradhi is a smart agriculture support system designed to assist farmers with crop management, seasonal planning, and data-driven decisions. The platform provides an intuitive interface for managing fields, crops, and agricultural activities efficiently.
